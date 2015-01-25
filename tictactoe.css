@@ -1,0 +1,108 @@
+#Container {
+	border: 15px solid green;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	left: 450px;
+	top: 300px;
+	right: 550px;
+}
+
+#square1 {
+	border: 10px solid green;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 330px;
+
+}
+
+#square2 {
+	border: 10px solid green;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 165px;
+	bottom: 170px;
+}
+
+#square3 {
+	border: 10px solid green;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 340px;
+}
+
+#square4 {
+	border: 10px solid green;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 340px;
+}
+
+#square5 {
+	border: 10px solid green;
+    width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 340px;
+}
+
+#square6 {
+    border: 10px solid green;
+    width: 150px;
+	height: 150px;
+	position: relative;
+	left: 165px;
+	bottom: 680px;
+}
+
+#square7 {
+	border: 10px solid green;
+    width: 150px;
+	height: 150px;
+	position: relative;
+	left: 330px;
+	bottom: 850px;
+}
+
+#square8 {
+	border: 10px solid green;
+    width: 150px;
+	height: 150px;
+	position: relative;
+	left: 165px;
+	bottom: 850px;
+}
+
+#square9 {
+	border: 10px solid green;
+    width: 150px;
+	height: 150px;
+	position: relative;
+	left: 330px;
+	bottom: 1020px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
